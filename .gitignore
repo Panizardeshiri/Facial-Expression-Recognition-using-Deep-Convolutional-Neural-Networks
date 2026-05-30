@@ -1,0 +1,15 @@
+# --- Datasets (Large Folders from your image) ---
+CK/
+fer2013/
+*.zip
+*.tar.gz
+
+# --- Model Weights & Large Saves ---
+*.h5
+*.pth
+
+# --- Python & IDE Noise ---
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
